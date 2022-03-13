@@ -1,2 +1,1 @@
-# Landing-page
-First Project to make a landing page
+In this Project I will make my first landing page using HTML and CSS. 
