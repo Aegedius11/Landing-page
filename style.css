@@ -25,6 +25,7 @@ body {
 .headline {
     display: flex;
     justify-content: space-between;
+    margin-bottom: 64px;
 
 }
 
@@ -53,7 +54,7 @@ button {
     color: #F9FAF8;
     border-radius: 12px;
     border: 0;    
-    width: 110px;
+    width: 150px;
     height: 2.5em;
     font-size: 16px;
       
@@ -61,8 +62,8 @@ button {
 
 .placeholder-top {
     background-color: #666666;
-    width: 400px;
-    height: 175px;
+    width: 500px;
+    height: 250px;
     color: #E5E7EB;
     display: flex;
     justify-content: center;
